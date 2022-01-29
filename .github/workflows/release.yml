@@ -22,7 +22,7 @@ jobs:
       RYUJINX_BASE_VERSION: "1.1"
       RYUJINX_TARGET_RELEASE_CHANNEL_NAME: "main"
       RYUJINX_TARGET_RELEASE_CHANNEL_OWNER: "redball1017"
-      RYUJINX_TARGET_RELEASE_CHANNEL_REPO: "Ryujinx-CN"
+      RYUJINX_TARGET_RELEASE_CHANNEL_REPO: "gitee.com/redball1017/Ryujinx-CN"
 
     steps:
       - uses: actions/checkout@v2
